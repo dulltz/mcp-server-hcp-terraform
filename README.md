@@ -59,7 +59,7 @@ Use the `hcp_terraform_get_module` tool to retrieve detailed information about a
         "mcp[cli]",
         "mcp",
         "run",
-        "/Users/tsuruda/go/src/github.com/dulltz/mcp-server-hcp-terraform/server.py"
+        "path/to/mcp-server-hcp-terraform/server.py"
       ],
       "env": {
         "HCP_TERRAFORM_TOKEN": "paste_here",
