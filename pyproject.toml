@@ -1,0 +1,10 @@
+[project]
+name = "mcp-server-hcp-terraform"
+version = "0.1.0"
+description = "HCP Terraform MCP server"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.6.0",
+]
